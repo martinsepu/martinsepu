@@ -85,7 +85,7 @@ Proyecto de práctica en desarrollo que implementa un monitor de sitios web con 
 
 ---
 
-### 📜 Certificaciones
+### 📜 Cursos
 
 - 🏅 **Cloud & Automation Tools** — EPAM Systems (2025)
 - 📚 **Cloud & DevOps Argentina** — EPAM Systems (2026, en curso) · *Kubernetes, CI/CD, AWS, Terraform*
@@ -96,21 +96,26 @@ Proyecto de práctica en desarrollo que implementa un monitor de sitios web con 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=martinsepu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A7EC8&icon_color=1A7EC8&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsepu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A7EC8&text_color=C9D1D9&langs_count=6" height="180"/>
+<!-- Contribuciones por mes distinguidas por lenguaje -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martinsepu&theme=github_dark" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=martinsepu&theme=github_dark" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martinsepu&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A7EC8&ring=1A7EC8&fire=F39C12&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6B7280" width="500"/>
+<!-- Actividad mensual de commits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=martinsepu&theme=github_dark&utcOffset=-3" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=martinsepu&theme=github_dark" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=martinsepu&bg_color=0D1117&color=1A7EC8&line=1A5276&point=F39C12&area=true&area_color=1A5276&hide_border=true" width="100%"/>
+<!-- Gráfico de contribuciones en el tiempo -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martinsepu&theme=github_dark" width="100%"/>
 
 </div>
 
