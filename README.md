@@ -12,7 +12,6 @@ Estudiante avanzado de Ingeniería en Sistemas de Información (UTN FRC) con exp
 Me especializo en **automatización de infraestructura**, **orquestación de contenedores** y **desarrollo en Python**.
 Actualmente cursando la especialización **Cloud & DevOps Argentina** en EPAM Systems.
 
-
 ---
 
 ### 🛠️ Stack Tecnológico
@@ -86,10 +85,34 @@ Proyecto de práctica en desarrollo que implementa un monitor de sitios web con 
 
 ---
 
-### 📜 Cursos
+### 📜 Certificaciones
 
 - 🏅 **Cloud & Automation Tools** — EPAM Systems (2025)
 - 📚 **Cloud & DevOps Argentina** — EPAM Systems (2026, en curso) · *Kubernetes, CI/CD, AWS, Terraform*
+
+---
+
+### 📊 Estadísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=martinsepu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A7EC8&icon_color=1A7EC8&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsepu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A7EC8&text_color=C9D1D9&langs_count=6" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=martinsepu&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A7EC8&ring=1A7EC8&fire=F39C12&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6B7280" width="500"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=martinsepu&bg_color=0D1117&color=1A7EC8&line=1A5276&point=F39C12&area=true&area_color=1A5276&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
