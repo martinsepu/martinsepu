@@ -12,7 +12,6 @@ Estudiante avanzado de Ingeniería en Sistemas de Información (UTN FRC) con exp
 Me especializo en **automatización de infraestructura**, **orquestación de contenedores** y **desarrollo en Python**.
 Actualmente cursando la especialización **Cloud & DevOps Argentina** en EPAM Systems.
 
-> *"Automatizar todo lo automatizable — y hacerlo bien."*
 
 ---
 
@@ -87,7 +86,7 @@ Proyecto de práctica en desarrollo que implementa un monitor de sitios web con 
 
 ---
 
-### 📜 Certificaciones
+### 📜 Cursos
 
 - 🏅 **Cloud & Automation Tools** — EPAM Systems (2025)
 - 📚 **Cloud & DevOps Argentina** — EPAM Systems (2026, en curso) · *Kubernetes, CI/CD, AWS, Terraform*
